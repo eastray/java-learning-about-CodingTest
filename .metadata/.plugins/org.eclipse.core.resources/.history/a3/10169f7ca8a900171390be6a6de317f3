@@ -1,0 +1,38 @@
+package Collatz;
+
+import java.util.Scanner;
+
+public class MainClass {
+
+	private static Scanner sc = new Scanner(System.in);
+	private static int count = 0;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int testCase = 0;
+
+		testCase = sc.nextInt();
+
+		MainClass mainClass = new MainClass();
+
+		System.out.println(mainClass.collatz(testCase));
+	}
+
+	private int collatz(int testCase) {
+		if (testCase == 1)
+			return count;
+		
+		if (count == 50)
+			return -1;
+
+		if (testCase % 2 == 0) { // Even
+			System.out.println("Even TestCase: " + testCase);
+			count++;
+			return collatz(testCase % 2);
+		} else { // Odd
+			count++;
+			return collatz(testCase * 3 + 1);
+		}
+	}
+}

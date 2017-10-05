@@ -1,0 +1,26 @@
+package sort_dictionary;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class MainClass {
+
+	private static Scanner sc = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+	
+	public void sort_dictionary() {
+		
+		HashMap<String, integer> map = new HashMap<String, integer>();
+		
+		
+	}
+	
+}
+
+
+

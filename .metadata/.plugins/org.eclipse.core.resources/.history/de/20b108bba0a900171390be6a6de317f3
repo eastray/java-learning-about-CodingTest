@@ -1,0 +1,33 @@
+package sort_dictionary;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Scanner;
+import java.util.Set;
+
+public class MainClass {
+
+	private static Scanner sc = new Scanner(System.in);
+
+	public static void main(String[] args) {
+
+		MainClass mainClass = new MainClass();
+		mainClass.sort_dictionary(sc.next(), sc.nextInt());
+
+	}
+
+	public void sort_dictionary(String element, int element2) {
+
+		HashMap<String, Integer> map = new HashMap<String, Integer>();
+
+		map.put(element, element2);
+		
+		Set<String> keys = map.keySet();
+
+		for (Iterator<String> i = keys.iterator(); i.hasNext();) {
+			String key = (String) i.next();
+			int value = map.get(key);
+			System.out.println(key + ": " + value);
+		}
+	}
+}
