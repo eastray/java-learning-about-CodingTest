@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+public class MainClass {
+
+	private static Scanner sc = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		MainClass test = new MainClass();
+		char[][] board = { { 'X', 'O', 'O', 'O', 'X' }, { 'X', 'O', 'O', 'O', 'O' }, { 'X', 'X', 'O', 'O', 'O' },
+				{ 'X', 'X', 'O', 'O', 'O' }, { 'X', 'X', 'X', 'X', 'X' } };
+
+		System.out.println(test.findLargestSquare(board));
+	}
+
+	private int findLargestSquare(char[][] board) {
+		int answer = 0;
+		int x = board.length;
+		int y = board.length;
+		char[][] board2 = new char[board.length+1][board.length+1];
+		System.out.println(board.length);
+		
+		for(int i = 1; i <= x; i++){
+			for(int j = 1; j <=y; j++){
+				if(board[i][j] == 'O')
+					
+			}
+		}
+		
+		return answer;
+	}
+
+	private static int min(int a, int b, int c) {
+		a = a < b ? a : b;
+		return a < c ? a : c;
+	}
+}

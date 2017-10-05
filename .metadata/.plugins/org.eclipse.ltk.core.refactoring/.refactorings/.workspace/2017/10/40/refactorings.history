@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;aboutCodingTest#1000_midasit_codingTest&apos;" deleteContents="true" description="Delete resource &apos;aboutCodingTest#1000_midasit_codingTest&apos;" element1="/aboutCodingTest#1000_midasit_codingTest" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1506847224612"/>&#x0A;<refactoring comment="Delete resource &apos;aboutCodingTEst&apos;" deleteContents="true" description="Delete resource &apos;aboutCodingTEst&apos;" element1="/aboutCodingTEst" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1506847244113"/>
+</session>
