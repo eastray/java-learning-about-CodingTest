@@ -1,0 +1,59 @@
+package setAlign;
+
+import java.util.Scanner;
+
+public class MainClass {
+	
+	private static Scanner sc = new Scanner(System.in);
+	private static int count = 0;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int testN = sc.nextInt();
+		int testCount = sc.nextInt();
+		
+		int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+		
+		perm(arr, 0, testN, testCount);
+	}
+
+	public static void perm(int[] arr, int depth, int n, int testCount) {
+		System.out.println("1111111111");
+		if(count == testCount){
+			System.out.print("testCount: " + testCount + ": ");
+			print(arr,n);
+			return;
+		}
+		System.out.println("22222222222");
+		if (depth == n) { 
+			count++;
+			return;
+		}
+		System.out.println("33333333333");
+		for (int i = depth; i < n; i++) {
+			System.out.println("4444444444444");
+			swap(arr, i, depth);
+			System.out.println("55555555555");
+			perm(arr, depth + 1, n, testCount);
+			System.out.println("66666666666");
+			swap(arr, i, depth);
+			
+		}
+	} 
+
+	public static void swap(int[] arr, int i, int j) {
+		System.out.println("i: " + i + ", depth: " + j);
+		int temp = arr[i];
+		arr[i] = arr[j];
+		arr[j] = temp;
+	}
+
+	public static void print(int[] arr, int k) {
+		for (int i = 0; i < k; i++) {
+			if (i == k - 1)
+				System.out.println(arr[i]);
+			else
+				System.out.print(arr[i] + ", ");
+		}
+	}
+}

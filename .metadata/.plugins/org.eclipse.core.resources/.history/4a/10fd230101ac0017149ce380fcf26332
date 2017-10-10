@@ -1,0 +1,57 @@
+package nextBigNumber;
+
+import java.util.Scanner;
+
+import javax.swing.plaf.synth.SynthSeparatorUI;
+
+public class MainClass {
+
+	private static Scanner sc = new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int num = sc.nextInt();
+		int numberOfOne = 0;
+		long binaryNum = 0;
+		
+		String stringNum = Integer.toBinaryString(num);
+		
+		String[] binaryString = stringNum.split("", 0);
+		
+		numberOfOne = stringToInt(binaryString);
+		
+		binaryNum = Integer.parseInt(stringNum);
+		
+		while(true){
+			num++;
+			
+			stringNum = Integer.toBinaryString(num);
+			
+			binaryString = stringNum.split("", 0);
+			
+			if(numberOfOne == stringToInt(binaryString))
+				break;
+		
+		}
+		
+		System.out.println("result: " + num);
+		
+		System.out.println(binaryNum);
+		
+		System.out.println(numberOfOne);
+		
+	}
+	
+	public static int stringToInt(String[] binaryString){
+		int numberOfOne = 0;
+		
+		for(String obj: binaryString){
+			System.out.println("obj: " + Integer.parseInt(obj));
+			numberOfOne += Integer.parseInt(obj);
+		}
+		
+		return numberOfOne;
+	}
+
+}

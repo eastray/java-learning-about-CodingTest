@@ -1,0 +1,28 @@
+package nextBigNumber;
+
+import java.util.Scanner;
+
+public class MainClass {
+
+	private static Scanner sc = new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int num = sc.nextInt();
+		int numberOfOne = 0;
+		
+		String binaryNum = Integer.toBinaryString(num);
+		
+		String[] binaryString = binaryNum.split("", 0);
+		
+		for(String obj: binaryString){
+			System.out.println("obj: " + Integer.parseInt(obj));
+			numberOfOne += Integer.parseInt(obj);
+		}
+		
+		System.out.println(numberOfOne);
+		
+	}
+
+}

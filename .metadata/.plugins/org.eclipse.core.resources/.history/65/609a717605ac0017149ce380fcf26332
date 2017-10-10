@@ -1,0 +1,36 @@
+package hopscotch;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MainClass mc = new MainClass();
+
+		int[][] test = { { 1, 2, 3, 5 }, { 5, 6, 7, 8 }, { 4, 3, 2, 1 } };
+
+		System.out.println(mc.hopscotch(test, 3));
+	}
+
+	public int hopscotch(int[][] arr, int size) {
+		int result = 0;
+		int max = 0;
+		int beforeIndex = -1;
+
+		for (int[] obj : arr) {
+			for (int i = 0; i < obj.length; i++) {
+				System.out.println("obj[i]: " + obj[i]);
+				if (max < obj[i] && beforeIndex != i) {
+					max = obj[i];
+					System.out.println("max: " + max);
+					beforeIndex = i;
+				}
+			}
+			result += max;
+			max = 0;
+		}
+		
+
+		return result;
+	}
+
+}
