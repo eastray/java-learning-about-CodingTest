@@ -12,12 +12,72 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Sat, 07 Oct 2017 23:29:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Oct 2017 15:01:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Using Swagger to Connect a Backend to an Angular Frontend</title>
+		<link>https://www.genuitec.com/using-swagger-connect-backend-angular-frontend/</link>
+		<pubDate>Fri, 13 Oct 2017 14:59:39 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Bright Ideas]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[How-to's]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[connect front end to back end]]></category>
+		<category><![CDATA[connecting front end to back end]]></category>
+		<category><![CDATA[swagger]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=539466</guid>
+		<description><![CDATA[<p>IntroductionLet’s say you have an advanced backend system, for which you wish to develop a modern Angular frontend, or, perhaps it’s not your backend, but something public like Facebook, and you want to develop a site using some of its exposed APIs. Of course, you want to do this with minimal effort &#8230; how do [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/using-swagger-connect-backend-angular-frontend/">Using Swagger to Connect a Backend to an Angular Frontend</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Working with Java 9 in Eclipse</title>
+		<link>https://www.genuitec.com/working-java-9-eclipse/</link>
+		<pubDate>Wed, 11 Oct 2017 20:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[Java EE]]></category>
+		<category><![CDATA[webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=534701</guid>
+		<description><![CDATA[<p>Note: This blog was updated on 10/11/2017 to reflect the release of Oxygen 1a which includes Java 9 support.The Java 9 GA release is just a few weeks old, and you can start developing with Java 9 in Eclipse, right now! All you need to do is download a suitable Oxygen 1a (4.7.1a) based distribution [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/working-java-9-eclipse/">Working with Java 9 in Eclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>JavaOne 2017: Highlights</title>
+		<link>https://www.genuitec.com/javaone-2017-highlights/</link>
+		<pubDate>Mon, 09 Oct 2017 20:50:11 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Bright Ideas]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[javaone]]></category>
+		<category><![CDATA[javaone announcements]]></category>
+		<category><![CDATA[javaone news]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=538849</guid>
+		<description><![CDATA[<p>In his keynote at the JavaOne Conference, James Governor said, “Things have changed in the Java ecosystem, probably more in the past three weeks, than they have in the previous thirteen years.” Now JavaOne has only just ended, and we’re still trying to sift through the vast volumes of information pouring out from this conference, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/javaone-2017-highlights/">JavaOne 2017: Highlights</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Code Sharing Evolving</title>
 		<link>https://www.genuitec.com/code-sharing-evolving/</link>
 		<pubDate>Tue, 03 Oct 2017 17:59:43 +0000</pubDate>
@@ -188,24 +248,6 @@
 ]]></description>
 		</item>
 		<item>
-		<title>Working with Java 9 in Eclipse</title>
-		<link>https://www.genuitec.com/working-java-9-eclipse/</link>
-		<pubDate>Thu, 24 Aug 2017 14:19:50 +0000</pubDate>
-		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Java]]></category>
-		<category><![CDATA[Planet Eclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[Java EE]]></category>
-		<category><![CDATA[webclipse]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=534701</guid>
-		<description><![CDATA[<p>The Java 9 general availability release is just under a month away, but the builds available right now are already feature complete. If you can’t wait to try some Java 9 capabilities, you can start developing with Java 9 in Eclipse, right now!Installing the Java 9 SupportYou need an Oxygen based install of Eclipse &#8211; ensure [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/working-java-9-eclipse/">Working with Java 9 in Eclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
 		<title>With Genuitec, updates are free!</title>
 		<link>https://www.genuitec.com/genuitec-updates-free/</link>
 		<pubDate>Thu, 17 Aug 2017 20:22:27 +0000</pubDate>
@@ -250,58 +292,14 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/navigating-angular-project/">Navigating through an Angular Project</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>Enhanced Code Navigation Made Possible with Webclipse</title>
-		<link>https://www.genuitec.com/enhanced-code-navigation-webclipse/</link>
-		<pubDate>Mon, 07 Aug 2017 17:01:17 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[breadcrumb]]></category>
-		<category><![CDATA[devsearch]]></category>
-		<category><![CDATA[Minimap]]></category>
-		<category><![CDATA[navigation]]></category>
-		<category><![CDATA[projectexplorer]]></category>
-		<category><![CDATA[search]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=532034</guid>
-		<description><![CDATA[<p>There are more reasons to love our Webclipse &#8212; navigating through your Eclipse code is like sailing on a calm, blue sea. Minimap, Breadcrumb Navigation and Project Explorer+ are your unwavering beacons that show you the way to your files and source code, while DevSearch is the compass that will steer you right inside your [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/enhanced-code-navigation-webclipse/">Enhanced Code Navigation Made Possible with Webclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>Webscripting Made Easy with JSjet.</title>
-		<link>https://www.genuitec.com/webscripting-made-easy-jsjet/</link>
-		<pubDate>Mon, 31 Jul 2017 16:31:15 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[code validation]]></category>
-		<category><![CDATA[debugging]]></category>
-		<category><![CDATA[occurence highlighting]]></category>
-		<category><![CDATA[source formatting]]></category>
-		<category><![CDATA[source refactoring]]></category>
-		<category><![CDATA[syntax highlighting]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=532146</guid>
-		<description><![CDATA[<p>So you already know about some cool features our Webclipse has to offer, like CodeLive or Emmet. Here is one more reason for you to put your trust in this Eclipse plug-in &#8212; it comes equipped with JSjet, our tool that simplifies web scripting for JavaScript (JS) and TypeScript (TS). Not only will you be able to code more easily, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/webscripting-made-easy-jsjet/">Webscripting Made Easy with JSjet.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9289/9551 objects using disk
+Object Caching 9343/9692 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 59/75 queries in 0.028 seconds using disk
+Database Caching using disk
 
- Served from: www.genuitec.com @ 2017-10-08 00:25:13 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-10-13 18:01:40 by W3 Total Cache -->

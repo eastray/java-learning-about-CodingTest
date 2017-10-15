@@ -21,6 +21,7 @@ markupColor=216,216,216
 numberColor=127,179,71
 operatorColor=216,216,216
 othersIndicationColor=216,216,216
+overriddenByCSS=,AbstractTextEditor.Color.Background.SystemDefault,lineNumberColor,bookmarkIndicationColor,errorIndicationColorBold,warningIndicationColor,literal1Color,currentLineColor,comment2Color,othersIndicationColor,keyword2Color,taskIndicationColor,markupColor,AbstractTextEditor.Color.Background,literal2Color,keyword1Color,AbstractTextEditor.Color.Foreground,printMarginColor,variableColor,AbstractTextEditor.Color.Foreground.SystemDefault,labelColor,searchResultIndicationColor,functionColor,operatorColor,invalidColor,numberColor,errorIndicationColor,comment1Color,
 printMarginColor=208,208,208
 searchResultIndicationColor=0,0,0
 taskIndicationColor=204,223,50

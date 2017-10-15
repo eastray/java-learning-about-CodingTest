@@ -8,3 +8,4 @@ mxmlProcessingInstructionColor=\#FFFFFF
 mxmlStringColor=\#FFC600
 mxmlTagColor=\#79ABFF
 mxmlTextColor=\#D8D8D8
+overriddenByCSS=,mxmlTagColor,mxmlTextColor,asASDocColor,mxmlCommentItalic,mxmlProcessingInstructionColor,asASDocItalic,mxmlCommentColor,mxmlStringColor,mxmlComponentTagColor,
