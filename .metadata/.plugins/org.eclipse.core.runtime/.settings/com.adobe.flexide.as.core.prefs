@@ -18,3 +18,4 @@ asTextColor=\#D8D8D8
 asTraceColor=\#BED6FF
 asVarColor=\#79ABFF
 eclipse.preferences.version=1
+overriddenByCSS=,asMetadataColor,asReservedColor,asCommentColor,asFunctionColor,asTraceColor,asStringColor,asASDocItalic,asClassUnderline,asCommentItalic,asPackageColor,asBracketColor,asClassBold,asVarColor,asASDocColor,asTextColor,asInterfaceColor,asOperatorColor,asClassColor,asClassStrikethrough,

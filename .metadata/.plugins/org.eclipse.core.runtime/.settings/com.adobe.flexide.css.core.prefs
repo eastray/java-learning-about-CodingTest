@@ -11,3 +11,4 @@ cssStringColor=\#FFC600
 cssSymbolColor=\#8DCBE2
 cssTextColor=\#D8D8D8
 eclipse.preferences.version=1
+overriddenByCSS=,cssSelectorColor,cssImportColor,cssPropertyNameColor,cssPropertyValueColor,cssFontFaceColor,cssCommentColor,cssMediaColor,cssTextColor,cssStringColor,cssCommentItalic,cssSymbolColor,cssNamespaceColor,

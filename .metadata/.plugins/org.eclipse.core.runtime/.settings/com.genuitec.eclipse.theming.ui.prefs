@@ -1,8 +1,9 @@
 applyBackground=false
-approved.defs.file.last.changed.time=1499285043000
+approved.defs.file.last.changed.time=1507839272000
 eclipse.preferences.version=1
 iconcolormode=primary
-last.download.attempt.time=1507440006451
-lastConfiguration=1.505624773569E12
-newinstall=true
+last.download.attempt.time=1507693382709
+lastConfiguration=1.507606976191E12
+newinstall=false
+showWelcomeDialog=false
 workbench.theme=Dark Gray
