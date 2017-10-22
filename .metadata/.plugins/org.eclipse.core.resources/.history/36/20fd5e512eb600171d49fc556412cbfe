@@ -1,0 +1,69 @@
+package noOvertime;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class NoOvertime {
+
+	@SuppressWarnings("resource")
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		NoOvertime no = new NoOvertime();
+
+		Scanner sc = new Scanner(System.in);
+
+		int n = sc.nextInt();
+		int m = sc.nextInt();
+
+		int[] arr = new int[n];
+
+		for (int i = 0; i < m; i++)
+			arr[i] = sc.nextInt();
+
+		System.out.println(no.calc(n, arr));
+
+	}
+
+	private int calc(int n, int[] arr) {
+
+		int result = 0;
+
+		int sum = 0;
+		
+		for (int ele : arr)
+			sum += ele;
+		
+		int avg = sum / arr.length;
+		
+		Arrays.sort(arr);
+
+		int i = 0;
+		
+		while (true) {
+
+			for (i = arr.length - 1; avg < arr[i]; i--) {
+				arr[i]--;
+				n--;
+				if (n == 0)
+					break;
+			}
+			
+			if(n != 0 && avg >= arr[i]){
+				for (int ele : arr)
+					sum += ele;
+				
+				avg = sum / arr.length;
+				
+				Arrays.sort(arr);
+			}
+
+			if (n == 0)
+				break;
+		}
+		for (int ele : arr)
+			result += (int) Math.pow(ele, 2);
+
+		return result;
+	}
+}

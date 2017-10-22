@@ -1,35 +1,12 @@
-<<<<<<< HEAD
 INDEX VERSION 1.130+/Users/dhkim/Workspaces/java/java-learning-about-CodingTest/.metadata/.plugins/org.eclipse.jdt.core
+3646296381.index
 419796268.index
-4158956476.index
-357478278.index
-2961435131.index
-2309822661.index
-1271342938.index
-4166604845.index
-4018134042.index
+219201631.index
+449811212.index
+4164483031.index
+2491491631.index
 3711128538.index
-609331307.index
-1524350763.index
+1882827561.index
+4039001894.index
 1535613587.index
-518397319.index
-1260736551.index
-3969190818.index
-659411456.index
-1522203103.index
-3637929226.index
-487047335.index
-2718728712.index
-=======
-INDEX VERSION 1.130+I:\Workspaces\java-learning-about-CodingTest\.metadata\.plugins\org.eclipse.jdt.core
-1712583828.index
-92067814.index
-3972466156.index
-4093180976.index
-194153726.index
-2923760211.index
-275235981.index
-4174532767.index
-3617260635.index
-3119500279.index
->>>>>>> 08aeb5dd78d547bbecfa90f649b0f8261ea281cb
+578735063.index

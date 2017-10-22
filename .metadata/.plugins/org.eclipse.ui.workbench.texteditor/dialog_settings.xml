@@ -5,6 +5,8 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value=" t"/>
+			<item value="&#x09;break;"/>
 		</list>
 		<list key="replacehistory">
 		</list>

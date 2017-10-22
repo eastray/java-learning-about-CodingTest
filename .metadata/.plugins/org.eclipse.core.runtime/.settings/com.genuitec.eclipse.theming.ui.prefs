@@ -1,15 +1,12 @@
-applyBackground=false
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=08aeb5dd78d547bbecfa90f649b0f8261ea281cb
+applyBackground=true
 approved.defs.file.last.changed.time=1507839272000
 eclipse.preferences.version=1
 iconcolormode=primary
-<<<<<<< HEAD
-last.download.attempt.time=1507938524707
-lastConfiguration=1.505624773569E12
-newinstall=true
-=======
-last.download.attempt.time=1507693382709
-lastConfiguration=1.507606976191E12
+last.download.attempt.time=1508566150815
+lastConfiguration=1.50856676659E12
 newinstall=false
 showWelcomeDialog=false
->>>>>>> 08aeb5dd78d547bbecfa90f649b0f8261ea281cb
 workbench.theme=Dark Gray
