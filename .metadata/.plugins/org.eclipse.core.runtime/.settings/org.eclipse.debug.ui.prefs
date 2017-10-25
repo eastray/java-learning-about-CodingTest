@@ -9,7 +9,7 @@ org.eclipse.debug.ui.errorColor=204,223,50
 org.eclipse.debug.ui.inColor=216,216,216
 org.eclipse.debug.ui.outColor=216,216,216
 org.eclipse.debug.ui.switch_perspective_on_suspend=never
-overriddenByCSS=,org.eclipse.debug.ui.consoleBackground,org.eclipse.debug.ui.outColor,org.eclipse.debug.ui.inColor,
+overriddenByCSS=,org.eclipse.debug.ui.consoleBackground,org.eclipse.debug.ui.outColor,org.eclipse.debug.ui.inColor,org.eclipse.debug.ui.errorColor,
 pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
 preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
 preferredTargets=default\:default|
