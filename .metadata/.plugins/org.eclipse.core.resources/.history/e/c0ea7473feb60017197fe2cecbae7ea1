@@ -1,0 +1,30 @@
+package chooseCity;
+
+import java.util.Scanner;
+
+public class ChooseCity {
+	
+	private int chooseCity(int n, int[][] arr) {
+		
+		return 0;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ChooseCity cc = new ChooseCity();
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int n = sc.nextInt();
+		int[][] arr = new int[n][2];
+		
+		for(int j = 0; j < n; j++)
+			for(int i = 0; i < 2; i++)
+				arr[j][i] = sc.nextInt();
+		
+		System.out.println(cc.chooseCity(n, arr));
+		
+	}
+
+}

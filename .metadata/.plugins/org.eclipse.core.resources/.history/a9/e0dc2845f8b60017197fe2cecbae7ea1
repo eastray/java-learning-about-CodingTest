@@ -1,0 +1,41 @@
+package caesar;
+
+import java.util.Scanner;
+
+public class Caesar {
+
+	private String caesar(String str, int n) {
+
+		String result = "";
+		
+		System.out.println("str: " + str.length());
+
+		for (int i = 0; i < str.length(); i++) {
+
+			System.out.println("charAt: " +Integer.parseInt(Character.toString(str.charAt(i))));
+			
+//			System.out.println(Integer.parseInt(Character.toString(str.charAt(i)))+2);
+			
+	//		result.concat(Character.toString((char) str.charAt(i)) + 3);
+
+		}
+
+		return result;
+	}
+
+	@SuppressWarnings("resource")
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Caesar cs = new Caesar();
+
+		Scanner sc = new Scanner(System.in);
+
+		String sentence = sc.next();
+		int n = sc.nextInt();
+
+		System.out.println(cs.caesar(sentence, n));
+
+	}
+
+}
