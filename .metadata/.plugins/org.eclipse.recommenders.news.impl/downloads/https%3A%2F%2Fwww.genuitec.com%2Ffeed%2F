@@ -12,12 +12,31 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Fri, 20 Oct 2017 20:22:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Oct 2017 21:19:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Testing Angular Apps with Jasmine and Karma</title>
+		<link>https://www.genuitec.com/testing-angular-apps-jasmine-karma/</link>
+		<pubDate>Wed, 25 Oct 2017 21:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[How-to's]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[test angular 4 apps]]></category>
+		<category><![CDATA[testing angular 4 apps]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=538042</guid>
+		<description><![CDATA[<p>Testing is one of the most important aspects of the modern application development process. Today, high quality, robust applications are the norm; nobody appreciates a buggy application. This article will walk you through testing your Angular application using capabilities that are already part of your Angular project.Creating a New Angular ProjectWe’re going to be using [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/testing-angular-apps-jasmine-karma/">Testing Angular Apps with Jasmine and Karma</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Set Up and Use a Fake REST API with Angular</title>
 		<link>https://www.genuitec.com/set-use-fake-rest-api-angular/</link>
 		<pubDate>Fri, 20 Oct 2017 20:22:33 +0000</pubDate>
@@ -51,7 +70,7 @@
 		<category><![CDATA[angular 5 features]]></category>
 
 		<guid isPermaLink="false">https://www.genuitec.com/?p=540073</guid>
-		<description><![CDATA[<p>Front-end developers, rejoice &#8211; after a short delay, the Angular 5 release is scheduled for October 23rd!Several beta releases have been available since August, and this version is now at the release candidate stage. Being the first major release since version 4 in March (yes, there never was an “Angular 3” &#8211; see here to [&#8230;]</p>
+		<description><![CDATA[<p>Front-end developers, rejoice &#8211; after a short delay, the Angular 5 release is scheduled for October 23rd!Update (October 27th): Unfortunately, Angular 5 hasn&#8217;t been released yet &#8211; the latest release in this stream is 5.0.0 RC 5, which was released on October 24th. However, we&#8217;re sure the release is right around the corner &#8230; watch this [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-5-release-imminent/">Angular 5 Features</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
@@ -285,28 +304,14 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/sdc-2017-sr2-software-delivery-evolving/">SDC 2017 SR2 &#8211; Software Delivery Evolving Further</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>With Genuitec, updates are free!</title>
-		<link>https://www.genuitec.com/genuitec-updates-free/</link>
-		<pubDate>Thu, 17 Aug 2017 20:22:27 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Webclipse]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=534195</guid>
-		<description><![CDATA[<p>Did you know that you already have access to the latest Genuitec products, as a licensed user? This includes brand new releases &#8211; there&#8217;s no need to buy a new version when it is released.Perhaps you have gone all the way and purchased MyEclipse, our Java IDE that includes the best tools for dynamic frontend and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/genuitec-updates-free/">With Genuitec, updates are free!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9381/9500 objects using disk
+Object Caching 9422/9540 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 5/45 queries in 0.023 seconds using disk
+Database Caching 43/45 queries in 0.007 seconds using disk
 
- Served from: www.genuitec.com @ 2017-10-22 00:23:36 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-10-25 21:32:07 by W3 Total Cache -->
